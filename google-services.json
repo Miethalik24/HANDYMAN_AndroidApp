@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187071614784",
+    "firebase_url": "https://householdsolution-8dc99-default-rtdb.firebaseio.com",
+    "project_id": "householdsolution-8dc99",
+    "storage_bucket": "householdsolution-8dc99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187071614784:android:38e26b283a0a95467074a5",
+        "android_client_info": {
+          "package_name": "com.example.locale_lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187071614784-4j99pea7gujpp8pn4119gn6aj01oqjp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locale_lite",
+            "certificate_hash": "73e621d06d6bd4dac1cce739ad5baa4e9bcf2959"
+          }
+        },
+        {
+          "client_id": "187071614784-jp53mq5og25n4nmosbt3e2tdun2bpmkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZVvmP2t3av1RNpI0gU6cCEWRANLkIxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187071614784-jp53mq5og25n4nmosbt3e2tdun2bpmkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
